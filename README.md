@@ -39,7 +39,7 @@ Important bits of code
   - `Services` and `Instances`
   
   
-# Fork Motivation
+## Fork Motivation
 
 This fork has the aim to migrate the code base from legacy Firefox to the new WebExtensions technology.
 
