@@ -37,3 +37,11 @@ Important bits of code
   - `log()`
   - `lazy()`/`lazyProto()`
   - `Services` and `Instances`
+  
+  
+# Fork Motivation
+
+This fork has the aim to migrate the code base from legacy Firefox to the new WebExtensions technology.
+
+ - Legacy tutorial: [https://developer.mozilla.org/en-US/docs/Archive/Add-ons]
+ - WebExtension tutorial: [https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions]
